@@ -1,6 +1,6 @@
 //A simple test to learn about AppScript
 function ECHO(input) {
-  return "You gave me ${input}";
+  return `You gave me ${input}`;
 }
 
 //Anthropic API documentation: https://docs.anthropic.com/en/api/messages
